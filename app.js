@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", () => {
                 image.height = 200;
               } else if (image.classList.contains('medium-img')) {
                 image.width = 150;
-                image.height = 150;
+                image.height = 120;
               }
         })
     }
