@@ -63,11 +63,14 @@ main{
 #main-content {
     display: flex;
     justify-content: space-around;
+    flex: 1;
 }
 
 #main-content > div {
     width: 80%;
     position: sticky;
+    height: auto;
+    top: 100px;
 }
 
 #event-pics img {
