@@ -63,6 +63,10 @@ main{
 #main-content {
     display: flex;
     justify-content: space-around;
+}
+
+.main-content {
+    display: flex;
     flex: 1;
 }
 
