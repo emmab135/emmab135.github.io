@@ -22,7 +22,6 @@ body > header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    position: fixed;
 }
 
 nav {
@@ -64,10 +63,6 @@ main{
 #main-content {
     display: flex;
     justify-content: space-around;
-}
-
-.main-content {
-    display: flex;
     flex: 1;
 }
 
