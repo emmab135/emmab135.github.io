@@ -69,7 +69,7 @@ body > main article {
     color: black !important;
     text-decoration: none !important;
     padding: 5px;
-    border: 0.5px transparent;
+    border: 0.5px solid white;
     border-radius: 10%;
 }
 
