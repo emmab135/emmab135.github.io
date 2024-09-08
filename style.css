@@ -65,11 +65,11 @@ body > main article {
     justify-content: space-around;
 }
 
-.asidebutton{
+.asidebutton {
     color: black !important;
     text-decoration: none !important;
     padding: 5px;
-    border: 1px transparent;
+    border: 0.5px transparent;
     border-radius: 10%;
 }
 
