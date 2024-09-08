@@ -63,8 +63,13 @@ body > main article {
 #main-content {
     display: flex;
     justify-content: space-around;
+}
+
+.asidebut {
     color: black;
     text-decoration: none;
+    padding: 5px;
+    border: 1px transparent;
 }
 
 #main-content > div {
