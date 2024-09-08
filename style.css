@@ -60,17 +60,19 @@ body > main article {
     margin: auto;
 }
 
-
 #main-content {
     display: flex;
     justify-content: space-around;
 }
 
+aside {
+    color: black;
+    text-decoration: none;
+}
+
 #main-content > div {
     width: 80%;
     height: auto;
-    color: black;
-    text-decoration: none;
 }
 
 #event-pics img {
