@@ -59,6 +59,10 @@ body > main article {
     width: 80%;
 }
 
+#event-pics img {
+    border-radius: 0%;
+}
+
 form{
     text-align: center;
 }
