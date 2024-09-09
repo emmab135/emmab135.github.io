@@ -58,25 +58,23 @@ body>header>nav>ul {
 body > main article {
     width: 70%;
     margin: auto;
+    margin-left: 0%;
 }
 
 #main-content {
     display: flex;
     justify-content: space-around;
-    margin-left: none;
 }
 
 main >div > aside {
     background-color: rgb(49, 197, 242);
-    position: sticky;
-    left: 0;`
 }
 
 .asidebutton {
     color: black !important;
     text-decoration: none !important;
     padding: 5px;
-    border: 0.5px solid white;
+    border: 0.5px transparent;
     border-radius: 10%;
 }
 
