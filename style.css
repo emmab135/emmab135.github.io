@@ -90,7 +90,7 @@ main >div > aside {
     margin-top: 10px;
 }
 
-#allvenues {
+#allvenues img {
     border-radius: 0%;
     display: flex;
     flex-direction: row;
