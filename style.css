@@ -94,7 +94,6 @@ main >div > aside {
     border-radius: 0%;
     display: flex;
     flex-direction: row;
-    margin-top: 5px; 
 }
 
 form{
