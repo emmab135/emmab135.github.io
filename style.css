@@ -63,6 +63,7 @@ body > main article {
 #main-content {
     display: flex;
     justify-content: space-around;
+    margin-left: none;
 }
 
 main >div > aside {
