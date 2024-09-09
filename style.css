@@ -26,8 +26,7 @@ body > header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    position: sticky;
-    top: 0%;
+    position: fixed;
 }
 
 nav {
@@ -83,7 +82,6 @@ main >div > aside {
 #main-content > div {
     width: 80%;
     height: auto;
-    margin-left: 0%;
 }
 
 #event-pics img {
