@@ -14,10 +14,11 @@ document.addEventListener("DOMContentLoaded", () => {
                 image.width = 150;
                 image.height = 200;
               } else if (image.classList.contains('medium-img')) {
-                image.style.width = `${randomWidth}px`;
+                image.width = 150;
                 image.height = 120;
               }
         })
+        .catch(error => console.error('Error fetching image:', error));
     }
 
 })

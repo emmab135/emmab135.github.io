@@ -95,6 +95,8 @@ main >div > aside {
     display: flex;
     justify-content: space-between;
     flex-wrap: nowrap;
+    gap: 10px;
+    object-fit: cover;
 }
 
 form{
