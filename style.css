@@ -26,7 +26,6 @@ body > header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    position: fixed;
 }
 
 nav {
@@ -68,6 +67,7 @@ body > main article {
 
 main >div > aside {
     background-color: rgb(49, 197, 242);
+    height: 1000vh;
 }
 
 .asidebutton {
