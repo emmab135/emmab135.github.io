@@ -97,6 +97,7 @@ main >div > aside {
     flex-wrap: nowrap;
     gap: 10px;
     object-fit: cover;
+    align-items: center;
 }
 
 #Newvenue img {
