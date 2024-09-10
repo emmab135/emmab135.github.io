@@ -90,6 +90,15 @@ main >div > aside {
     margin-top: 10px;
 }
 
+#allvenues img {
+    border-radius: 0%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 10px;
+    object-fit: cover;
+}
+
 form{
     text-align: center;
 }
