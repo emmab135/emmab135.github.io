@@ -108,7 +108,7 @@ main >div > aside {
 
 #Newvenue img {
     border-radius: 0%;
-    max-width: fit-content;
+    max-width: 50%;
 }
 
 #allvenueimg {
