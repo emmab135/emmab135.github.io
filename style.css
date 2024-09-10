@@ -69,14 +69,6 @@ main >div > aside {
     background-color: rgb(49, 197, 242);
 }
 
-.asidebutton1 {
-    color: black !important;
-    text-decoration: none !important;
-    padding: 5px;
-    border: 0.5px transparent;
-    border-radius: 10%;
-}
-
 .asidebutton {
     color: black !important;
     text-decoration: none !important;
