@@ -104,14 +104,6 @@ main >div > aside {
     border-radius: 0%;
 }
 
-#allvenues {
-    display: flex;
-    justify-content: center;  
-    align-items: center;      
-    height: 100vh;
-    padding: 5vh;
-}
-
 form{
     text-align: center;
 }
@@ -130,8 +122,6 @@ body > footer {
 
 img {
     border-radius: 50%;
-    max-width: 100%;
-    height: auto;
 }
 
 #footer-ul {
