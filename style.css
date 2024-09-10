@@ -100,8 +100,18 @@ main >div > aside {
     align-items: center;
 }
 
+#allvenues {
+    display: flex;
+    flex-direction: column;
+}
+
 #Newvenue img {
     border-radius: 0%;
+}
+
+#allvenueimg {
+    display: flex;
+    flex-direction: row;
 }
 
 form{
