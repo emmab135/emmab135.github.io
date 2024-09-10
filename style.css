@@ -92,6 +92,12 @@ main >div > aside {
 
 #allvenues img {
     border-radius: 0%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 10px;
+    object-fit: cover;
+    align-items: center;
 }
 
 #Newvenue img {
@@ -100,15 +106,9 @@ main >div > aside {
 
 #allvenues {
     display: flex;
-    flex-direction: column;
     justify-content: center;  
     align-items: center;      
     height: 100vh;
-}
-
-#allvenuesimg {
-    display: flex;
-    flex-direction: row !important;
 }
 
 form{
