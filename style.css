@@ -100,9 +100,15 @@ main >div > aside {
 
 #allvenues {
     display: flex;
+    flex-direction: column;
     justify-content: center;  
     align-items: center;      
     height: 100vh;
+}
+
+#allvenuesimg {
+    display: flex;
+    flex-direction: row !important;
 }
 
 form{
