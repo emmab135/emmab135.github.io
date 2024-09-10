@@ -10,7 +10,7 @@ body {
 
 #logo {
     margin: 0px;
-    padding: 8px;
+    padding: 10px;
     font-family: "Fredoka One", sans-serif;
     width: 16%;
     color: white;
@@ -22,7 +22,7 @@ ul {
 
 body > header { 
     background-color: rgb(26, 141, 164);
-    height: 15vh;
+    height: 20vh;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -92,6 +92,10 @@ main >div > aside {
 
 #allvenues img {
     border-radius: 0%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 10px;
     object-fit: cover;
     align-items: center;
 }
