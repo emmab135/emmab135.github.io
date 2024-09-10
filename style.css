@@ -99,6 +99,10 @@ main >div > aside {
     object-fit: cover;
 }
 
+#Newvenue img {
+    border-radius: 0%;
+}
+
 form{
     text-align: center;
 }
