@@ -115,7 +115,6 @@ main >div > aside {
 #allvenueimg {
     display: flex;
     flex-direction: row;
-    object-fit: cover;
 }
 
 form{
