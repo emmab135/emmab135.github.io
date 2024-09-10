@@ -92,10 +92,6 @@ main >div > aside {
 
 #allvenues img {
     border-radius: 0%;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: nowrap;
-    gap: 10px;
     object-fit: cover;
     align-items: center;
 }
