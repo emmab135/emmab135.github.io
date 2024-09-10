@@ -92,16 +92,17 @@ main >div > aside {
 
 #allvenues img {
     border-radius: 0%;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: nowrap;
-    gap: 10px;
-    object-fit: cover;
-    align-items: center;
 }
 
 #Newvenue img {
     border-radius: 0%;
+}
+
+#allvenues {
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh;
 }
 
 form{
@@ -122,6 +123,8 @@ body > footer {
 
 img {
     border-radius: 50%;
+    max-width: 100%;
+    height: auto;
 }
 
 #footer-ul {
